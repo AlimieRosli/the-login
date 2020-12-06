@@ -1,0 +1,61 @@
+/*[ logo section ]*/
+
+.logo-section {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 75px 95px;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    color: #ffffff;
+}
+
+.logo-wrap {
+    height: 100%!important;
+}
+
+.logo {
+    height: 100px!important;
+}
+ 
+/*[ login form section ]*/
+
+.form-container {
+    width: 100%;
+    margin: 0 auto;
+}
+  
+.full-login {
+    width: 100%;  
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;;
+}
+  
+  
+.wrap-login {
+    width: 680px;
+    background: #fff;
+    border-radius: 10px;
+    position: relative;
+}
+
+
+input {
+    background-color: #E8F0FE;
+}
